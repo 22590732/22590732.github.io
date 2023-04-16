@@ -1,0 +1,174 @@
+body {
+	
+	margin: 0;
+}
+
+/*Frame 1*/
+
+.Frame1 {
+	margin: 0;
+	height: 100vh;
+	padding: 0;
+}
+
+.Frame1 img {
+	margin: 0;
+	height: 100vh;
+
+}
+
+.Frame1Button {
+	margin: 0;
+	height: 195px;
+	padding: 0;
+	position: absolute;
+	z-index: 999;
+	top: 103px;
+	left: 808px;
+}
+
+.Frame1Button img {
+	margin: 0;
+	height: 195px;
+}
+
+/*Frame 2*/
+
+.Gerry2 {
+	position: absolute;
+	top: 300px;
+	left: 825px;
+}
+
+.Frame2 {
+	margin: 0;
+	height: 100vh;
+	padding: 0;
+}
+
+.Frame2 img {
+	margin: 0;
+	height: 100vh;
+
+}
+
+.Frame2Button {
+	margin: 0;
+	height: 320px;
+	padding: 0;
+	position: absolute;
+	z-index: 99;
+	top: 395px;
+	left: 25px;
+}
+
+.Frame2Button img {
+	margin: 0;
+	height: 320px;
+}
+
+/*Frame 3*/
+
+.Gerry2Anim {
+	z-index: 999;
+	position: absolute;
+	top: -15px;
+	width: 90%;
+}
+
+.Gerry2Anim img {
+	position: absolute;
+	top: -75px;
+	
+	width: 100%;
+}
+
+.Frame3 {
+	margin: 0;
+	height: 100vh;
+	padding: 0;
+	height: 100vh;
+	z-index: 0;
+}
+
+.Frame3 img {
+	margin: 0;
+	height: 100vh;
+}
+
+.Frame3ButtonHide {
+	margin: 0;
+	height: 320px;
+	padding: 0;
+	position: absolute;
+	top: 380px;
+	left: 25px;
+}
+
+.Frame3ButtonHide img {
+	margin: 0;
+	height: 320px;
+}
+
+/*.runBread {
+	margin: 0;
+	height: 58px;
+	padding: 0;
+	position: absolute;
+	top: 514px;
+	left: 711px;
+
+}
+
+.runBread img {
+	margin: 0;
+	height: 58px;
+}*/
+
+.runBread {
+	margin: 0;
+	position: absolute;
+	height: 58px;
+	top: 514px;
+	left: 711px;
+	z-index: 998;
+}
+
+.runBread img {
+	height: 58px;
+}
+
+/*Frame 4*/
+
+.Frame4 {
+	position: absolute;
+	margin: 0;
+	height: 100vh;
+	padding: 0;
+	height: 100vh;
+	top: 0;
+}
+
+.Frame4 img {
+	position: absolute;
+	margin: 0;
+	height: 100vh;
+	top: 0;
+}
+
+
+.toBread {
+	position: absolute;
+	height: 100vh;
+	top: 0;
+	left: 50px;
+	margin: 0;
+}
+
+.toBread img {
+	position: absolute;
+	height: 100vh;
+	top: 0;
+	margin: 0;
+	left: 50px;
+}
