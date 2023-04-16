@@ -189,3 +189,7 @@ body {
 	left: 176px;
 	width: 400px;
 }
+
+#back {
+	z-index: 999;
+}
