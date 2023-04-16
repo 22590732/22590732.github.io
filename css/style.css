@@ -189,3 +189,10 @@ body {
 	left: 176px;
 	width: 400px;
 }
+
+.back {
+	font: Arial;
+	position: absolute;
+	top: 10px;
+	font-size: 64px;
+}
