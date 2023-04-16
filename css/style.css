@@ -192,4 +192,11 @@ body {
 
 #back {
 	z-index: 999;
+	position: absolute;
+	top: 10;
+}
+
+#back a {
+	color: white;
+	text-decoration: none;
 }
